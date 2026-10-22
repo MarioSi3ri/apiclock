@@ -23,3 +23,8 @@ curl http://localhost:3000/api/fecha
 
 # Fecha formateada
 curl "http://localhost:3000/api/fecha/formateada?formato=larga"
+```
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles sobre el uso del código.
